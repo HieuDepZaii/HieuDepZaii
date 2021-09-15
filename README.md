@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HieuDepZaii
 - Dân chơi hệ PHP, Vuejs, Socket.io
 - Sửa máy tính, cài win dạo
-https://i.pinimg.com/originals/c1/19/31/c119310738950dfc90828e17d03beff7.jpg
+![alt text](https://i.pinimg.com/originals/c1/19/31/c119310738950dfc90828e17d03beff7.jpg) 
 
 😀 ALWAYS SMILE 😁
 <!---
