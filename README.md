@@ -3,17 +3,14 @@
 ### - Chuyên Desgin Database 
 ### - Tư vấn công nghệ 
 ### - Sửa máy tính, cài win dạo 
-
-
-
-
+<br />
 
 
 ![alt text](https://i.pinimg.com/originals/c1/19/31/c119310738950dfc90828e17d03beff7.jpg) 
 
 
 
-
+<br />
 
 # 🙂 ĐIẾU THUỐC TÀN TA MỒI THÊM ĐIẾU NỮA, 
 #     CODE KHÔNG CHẠY KHÔNG CODE LẠI LẦN 2 😁
