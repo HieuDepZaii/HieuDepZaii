@@ -1,5 +1,5 @@
 ### - 👋 Hi, I’m @HieuDepZaii 😎😎
-### - Dân chơi PHP, Vuejs, Socket.io, Nodejs 
+### - Dân chơi PHP-Laravel, Vuejs, Socket.io, Nodejs 
 ### - Chuyên Desgin Database 
 ### - Tư vấn công nghệ 
 ### - Sửa máy tính, cài win dạo 
