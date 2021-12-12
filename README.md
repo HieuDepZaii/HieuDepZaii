@@ -1,5 +1,5 @@
 # 1 rapper nhưng thích ngồi viết code, It's ME !!!
-<!-- <p align=”center”>FullStack Web Developer 🧑‍💻, Rapper 🎤</p> -->
+###<p align=”center”>FullStack Web Developer 🧑‍💻, Rapper 🎤</p>
 <!---
 HieuDepZaii/HieuDepZaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
